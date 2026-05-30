@@ -1,12 +1,10 @@
-<!-- Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Sarthak%20Wage&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20CTO%20%C2%B7%20Meshcraft&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
-</div>
-
+<!-- Header -->
 <div align="center">
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Builder.+Founder.+Generalist.;Shipping+products+across+AI%2C+XR+%26+the+web.;Always+optimizing+for+craft+%2B+speed." alt="Typing animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Sarthak%20Wage&fontSize=72&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="header" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Founder+%26+CTO+%40+Meshcraft;Builder.+Generalist.+Shipper.;Optimizing+for+craft+and+speed." alt="typing" />
 </a>
 
 <br/>
@@ -21,12 +19,12 @@
 
 <br/>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/></picture> &nbsp; About me
+## 👨‍💻 &nbsp; About me
 
 ```yaml
 name:       Sarthak Wage
 role:       Founder & CTO @ Meshcraft
-focus:      AI · Immersive Tech · Full-Stack Engineering
+focus:      AI · Full-Stack Engineering · Product
 location:   India 🇮🇳
 mindset:    Problem-first, lane-agnostic, ship fast
 philosophy: "If it doesn't ship, it doesn't exist."
@@ -49,13 +47,13 @@ fueled_by:  Lo-fi beats, hard problems, and good design
     </td>
     <td width="50%" valign="top">
       <h3>🤖 Applied AI / ML</h3>
-      <p>Computer vision, NLP, medical imaging, agentic workflows. Models that actually live in products, not notebooks.</p>
+      <p>Computer vision, NLP, medical imaging, agentic workflows. Models that live in products, not notebooks.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎮 Immersive & 3D</h3>
-      <p>Unity, Unreal, WebXR, simulations, digital twins. Bridging the physical and the rendered.</p>
+      <h3>🎨 Design-Driven Dev</h3>
+      <p>I care about how things feel. Motion, typography, micro-interactions — the details that make products feel premium.</p>
     </td>
     <td width="50%" valign="top">
       <h3>🚀 0 → 1 Founder Work</h3>
@@ -66,37 +64,25 @@ fueled_by:  Lo-fi beats, hard problems, and good design
 
 <br/>
 
-## 🛠️ &nbsp; Tech I work with
+## 🛠️ &nbsp; Tech I actually ship with
 
 <div align="center">
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,python,cs,cpp,sql,bash" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,html,css,bash" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs,html,css" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
 
 **Backend & Data**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,redis,supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase" />
 
-**AI / ML**
+**Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
-
-**3D / XR / Game**
-
-<img src="https://skillicons.dev/icons?i=unity,unreal,blender" />
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,netlify,git,github" />
-
-**Design & Tools**
-
-<img src="https://skillicons.dev/icons?i=figma,notion,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify" />
 
 </div>
 
@@ -111,7 +97,7 @@ fueled_by:  Lo-fi beats, hard problems, and good design
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Organic42&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10" height="320" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Organic42&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="320" />
 &nbsp;&nbsp;
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Organic42&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F778BA&area=true&area_color=58A6FF" width="58%" />
 
@@ -144,7 +130,7 @@ fueled_by:  Lo-fi beats, hard problems, and good design
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" width="100%" />
 </div>
 
 <div align="center">
