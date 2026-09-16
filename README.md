@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Sarthak%20Wage&fontSize=72&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Founding+Engineer+%40+ArthaFlow+Global;Applied+ML+%C2%B7+Medical+imaging+%C2%B7+Agents;Previously+Founder+%26+CTO+%40+MeshCraft;If+it+doesn't+ship%2C+it+doesn't+exist." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Co-founder+%40+ArthaFlow+Global;Applied+ML+%C2%B7+Medical+imaging+%C2%B7+Agents;Previously+Founder+%26+CTO+%40+MeshCraft;If+it+doesn't+ship%2C+it+doesn't+exist." alt="typing" />
 </a>
 
 <br/>
@@ -28,7 +28,7 @@
 
 ```yaml
 name:       Sarthak Wage
-role:       Founding Engineer @ ArthaFlow Global
+role:       Co-founder @ ArthaFlow Global
 previously: Founder & CTO @ MeshCraft (Rs 22L revenue, Rs 50L seed, 8-person team)
 focus:      Applied ML · Medical imaging · LLM agents · Full-stack
 location:   Mumbai, India 🇮🇳
@@ -60,14 +60,14 @@ in-browser rendering via three.js.
 </td>
 <td width="50%" valign="top">
 
-### 🌍 [ArthaFlow Global](https://github.com/Organic42/arthaflow-global)
+### 🌍 [ArthaFlow Global](https://arthaflowglobal.com)
 The operating system for global trade. Data ingestion across DGFT/DGCIS/CBIC —
 **12,402 ITC-HS lines × 7 financial years**, reconciling to India's published **$441.5bn**
 book. Retrieve-then-choose HS classification that *structurally cannot* hallucinate a code.
 
 **134+ pinned assertions**, validated by mutation testing.
 
-`Next.js 16` `TypeScript` `Supabase` `Gemini` `Python`
+`Next.js 16` `TypeScript` `Supabase` `Gemini` `Python` · *source private*
 
 </td>
 </tr>
