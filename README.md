@@ -86,7 +86,7 @@ Exchange data across 1,397 trading days.
 </td>
 <td width="50%" valign="top">
 
-### 🌾 [Kisan Sahayak](https://github.com/Organic42/Verdant-Pashu-AI)
+### 🌾 [Kisan Sahayak](https://github.com/Organic42/PashuAI_V1)
 Multilingual AI advisory assistant for Indian farmers — English, Hindi, Haryanvi and
 Rajasthani, with voice input. Built for Verdant Pvt Ltd (PashuAI).
 
