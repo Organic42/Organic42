@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Always building. Always shipping."><title>Always building. Always shipping.</title>
+<defs><linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#58a6ff" stop-opacity="0"/><stop offset="0.5" stop-color="#58a6ff" stop-opacity="0.8"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/></linearGradient></defs>
+<rect x="200" y="30" width="800" height="1.5" fill="url(#ln)"/>
+<text x="600" y="80" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" letter-spacing="1" fill="#6e7681">Always building. Always shipping.</text>
+</svg>

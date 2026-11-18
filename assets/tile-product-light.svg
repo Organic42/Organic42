@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="244" viewBox="0 0 800 244" role="img" aria-label="Product Engineering: Blank page to production. Architecture, systems design, data pipelines, UI/UX, infra — the whole thing."><title>Product Engineering: Blank page to production. Architecture, systems design, data pipelines, UI/UX, infra — the whole thing.</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f6f8fa"/></linearGradient></defs>
+<rect x="1" y="1" width="798" height="242" rx="22" fill="url(#bg)" stroke="#d0d7de" stroke-width="1.5"/>
+<text x="46" y="66" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#0969da">02</text>
+<line x1="80" y1="61" x2="116" y2="61" stroke="#0969da" stroke-opacity="0.5" stroke-width="1.5"/>
+<text x="130" y="68" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="-0.3" fill="#1f2328">Product Engineering</text>
+<text x="46" y="124" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#59636e" xml:space="preserve"><tspan>Blank page to production. Architecture, systems design, data pipelines,</tspan></text>
+<text x="46" y="156" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#59636e" xml:space="preserve"><tspan>UI/UX, infra — the whole thing.</tspan></text>
+</svg>
